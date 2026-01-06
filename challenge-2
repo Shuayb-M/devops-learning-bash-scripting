@@ -1,1 +1,41 @@
-###
+## Challenge 2: File Operations Script
+
+**Challenge:** 
+Create a script that automates directory and file creation.
+
+**Requirements:** 
+
+- Create a directory called bash_demo
+- Navigate into the directory
+- Create a file called demo.txt
+- Write text to the file (include current date)
+
+**Example output:** 
+
+Directory 'bash_demo' created. File 'demo.txt' created.
+
+File contents: This file was created by a Bash script on 2024-11-29
+
+
+**Solution:**
+```
+STEP1:
+
+STEP2:
+
+
+```
+
+**Explanation:**
+
+<!-- - ls readme, command is used to list files and folders in the directory
+
+- cat ./- , cat command outputs the contents of files in the terminal while we tell Linux exactly where the file is by using its full path.
+
+**Password:** [263JGJPfgU6LtdEvgfWU1XP5yac29mFx] -->
+
+**What I learned:** 
+
+<!-- - If we were to open the file like this: cat -, Linux gets confused and doesn’t open the file. Linux thinks - means “this is an option,” not a filename.
+
+- Some file names confuse Linux (like -). So we use ./ to be very clear. When you use ./ you are telling Linux: 👉 “Open - that is right here in this folder” -->

@@ -1,1 +1,41 @@
-###
+## Challenge 1: Basic Arithmetic Calculator
+
+**Challenge:** 
+Create a script that takes two numbers as input and performs basic arithmetic operations (addition, subtraction, multiplication, division).
+
+**Requirements:** 
+
+- Prompt user for two numbers
+- Perform all four operations
+- Display the results
+- Handle division by zero
+
+**Example output:** 
+
+Enter first number: 10 Enter second number: 5
+
+Results: 10 + 5 = 15 10 - 5 = 5 10 × 5 = 50 10 ÷ 5 = 2
+
+
+**Solution:**
+```
+STEP1:
+
+STEP2:
+
+
+```
+
+**Explanation:**
+
+<!-- - ls readme, command is used to list files and folders in the directory
+
+- cat ./- , cat command outputs the contents of files in the terminal while we tell Linux exactly where the file is by using its full path.
+
+**Password:** [263JGJPfgU6LtdEvgfWU1XP5yac29mFx] -->
+
+**What I learned:** 
+
+<!-- - If we were to open the file like this: cat -, Linux gets confused and doesn’t open the file. Linux thinks - means “this is an option,” not a filename.
+
+- Some file names confuse Linux (like -). So we use ./ to be very clear. When you use ./ you are telling Linux: 👉 “Open - that is right here in this folder” -->
