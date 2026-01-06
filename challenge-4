@@ -1,1 +1,48 @@
-###
+## Challenge 4: Backup Script for Text Files
+
+
+**Challenge:** 
+
+Create a script that backs up all .txt files from one directory to another.
+
+
+**Requirements:** 
+
+- Prompt user for source directory
+- Create a backup directory if it doesn't exist
+- Copy all .txt files to the backup directory
+- Add timestamp to backup directory name
+- Display count of files backed up
+
+
+**Example output:** 
+
+Enter source directory: /home/user/documents
+
+Backup directory created: backup_2024-11-29_14-30 Copying .txt files...
+
+Backup complete! Files backed up: 5
+
+
+**Solution:**
+```
+STEP1:
+
+STEP2:
+
+
+```
+
+**Explanation:**
+
+<!-- - ls readme, command is used to list files and folders in the directory
+
+- cat ./- , cat command outputs the contents of files in the terminal while we tell Linux exactly where the file is by using its full path.
+
+**Password:** [263JGJPfgU6LtdEvgfWU1XP5yac29mFx] -->
+
+**What I learned:** 
+
+<!-- - If we were to open the file like this: cat -, Linux gets confused and doesn’t open the file. Linux thinks - means “this is an option,” not a filename.
+
+- Some file names confuse Linux (like -). So we use ./ to be very clear. When you use ./ you are telling Linux: 👉 “Open - that is right here in this folder” -->
